@@ -1,0 +1,12 @@
+opencv-python>=4.7.0
+pillow
+pytesseract
+pdf2image
+PyMuPDF
+google-genai>=0.6.0   # or the latest google genai client
+tqdm
+python-dotenv
+langchain>=0.0.330    # optional if you want LLM helpers / chunking (not required)
+requests
+numpy
+streamlit>=1.28.0     # for web UI
